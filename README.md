@@ -27,3 +27,5 @@ Hate Speech Detection is a machine learning project aimed at identifying and cla
 ## Contribution Guidelines
 Contributions to this project are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
