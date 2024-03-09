@@ -1,4 +1,4 @@
-# NLP-Sentinel-Unveiling-Hate-Speech-with-Machine-Learning
+# Sentiment Sentry: Harnessing NLP to Detect Online Negativity
 
 ## Overview
 Hate Speech Detection is a machine learning project aimed at identifying and classifying hate speech in social media content. The project utilizes natural language processing (NLP) techniques and machine learning algorithms to automatically detect and categorize hateful language, with the goal of creating safer online environments and combatting harmful behavior.
